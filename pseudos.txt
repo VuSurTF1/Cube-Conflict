@@ -1,0 +1,5 @@
+NOMBRE_DE_PSEUDOS: 3
+
+PSEUDO 0: Cisla
+PSEUDO 1: Vorpyj
+PSEUDO 2: Suumerde
