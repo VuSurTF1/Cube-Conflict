@@ -45,6 +45,7 @@ Notice — For any reuse or distribution, you must make clear to others
 the license terms of this work. 
 The best way to do this is with a link to this web page.
 
+http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 LICENSE CUBE ENGINE 2
 =====================
