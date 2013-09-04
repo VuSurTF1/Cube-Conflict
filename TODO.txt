@@ -1,6 +1,5 @@
 Menus :
-Options jouabilité (souris, touches)
-Options sonores
+Rendre options jouabilité plus claire ?
 Menu multijoueur
 Menu botmatch
 Menu administration de serveur
