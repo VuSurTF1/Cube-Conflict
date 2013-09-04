@@ -25,6 +25,13 @@ Vwep pistolet alien
 
 Autres :
 Finir icones
+Finir radar
+
+Sons :
+Explosions au loin
+Sons pistolet
+Sons sniper
+Sons d'ambiance
 
 Bugs :
 Fixer bug vwep
