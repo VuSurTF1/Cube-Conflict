@@ -12,6 +12,7 @@ Finir map alpha
 
 Jeu :
 ajouter recul vertical (mousemove)
+Finir boost précision
 
 Graphismes :
 Améliorer rendu explosions
@@ -22,6 +23,10 @@ Pixels
 Refaire sapin
 Finir SV 98, Mossberg
 Vwep pistolet alien
+Modeles drapeaux
+Modeles bases
+Modeles boosts
+Couleurs d'équipes pour les smileys
 
 Autres :
 Finir icones
