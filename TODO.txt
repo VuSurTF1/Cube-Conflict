@@ -32,7 +32,6 @@ Finir icones
 Finir radar
 
 Sons :
-Explosions au loin
 Sons pistolet
 Sons sniper
 Sons d'ambiance
