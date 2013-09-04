@@ -1,0 +1,31 @@
+Menus :
+Options jouabilité (souris, touches)
+Options sonores
+Menu multijoueur
+Menu botmatch
+Menu administration de serveur
+Menu pause
+Menu vote
+
+Map :
+Finir map alpha
+
+Jeu :
+ajouter recul vertical (mousemove)
+
+Graphismes :
+Améliorer rendu explosions
+Améliorer gore
+
+Modèles 3D :
+Pixels
+Refaire sapin
+Finir SV 98, Mossberg
+Vwep pistolet alien
+
+Autres :
+Finir icones
+
+Bugs :
+Fixer bug vwep
+Corriger noms d'ia
