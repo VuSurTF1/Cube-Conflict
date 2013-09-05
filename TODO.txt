@@ -38,6 +38,5 @@ Sons d'ambiance
 
 Bugs :
 Fixer bug vwep
-Corriger noms d'ia
 Corriger affichage radar
 Corriger affichage viseur/dégats

@@ -1,9 +1,11 @@
-﻿NOMBRE_DE_PSEUDOS: 7
-
-PSEUDO 0: Cisla
-PSEUDO 1: Vorpyj
-PSEUDO 2: Suumerde
-PSEUDO 3: Diablox9
-PSEUDO 4: Kévin
-PSEUDO 5: lSophieHD
-PSEUDO 6: Bieber
+NOMBREPSEUDOS: 10
+NOM 0: Cisla
+NOM 1: Vorpyj
+NOM 2: Suumas
+NOM 3: Malauriane
+NOM 4: TaiTai
+NOM 5: Morsay
+NOM 6: Cortex
+NOM 7: JmHan59
+NOM 8: Joharno
+NOM 10: KLibre
