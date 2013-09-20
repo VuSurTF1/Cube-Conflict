@@ -11,7 +11,6 @@ Finir map alpha
 
 Jeu :
 ajouter recul vertical (mousemove)
-Finir boost précision
 
 Graphismes :
 Améliorer rendu explosions
@@ -25,11 +24,9 @@ Vwep pistolet alien
 Modeles drapeaux
 Modeles bases
 Modeles boosts
-Couleurs d'équipes pour les smileys
 
 Autres :
 Finir icones
-Finir radar
 
 Sons :
 Sons pistolet
@@ -38,5 +35,4 @@ Sons d'ambiance
 
 Bugs :
 Fixer bug vwep
-Corriger affichage radar
 Corriger affichage viseur/dégats
