@@ -1,4 +1,4 @@
-NOMBREPSEUDOS: 10
+NOMBREPSEUDOS: 30
 NOM 0: Cisla
 NOM 1: Vorpyj
 NOM 2: Suumas
@@ -8,4 +8,24 @@ NOM 5: Morsay
 NOM 6: Cortex
 NOM 7: JmHan59
 NOM 8: Joharno
-NOM 10: KLibre
+NOM 9: Booba
+NOM 10: Cyprien
+NOM 11: KLibre
+NOM 12: Coffe
+NOM 13: DiabouseX9
+NOM 14: Kemar
+NOM 15: BGMecheux
+NOM 16: Bieber
+NOM 17: Norman
+NOM 18: Elvis
+NOM 19: Herobrine
+NOM 20: Steeve
+NOM 21: Roh2fesses
+NOM 22: Gilbert
+NOM 23: Zehef
+NOM 24: FapFap
+NOM 25: Eustache
+NOM 26: Zyzz
+NOM 27: Odette
+NOM 28: Nabila
+NOM 29: Debila
