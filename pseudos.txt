@@ -1,4 +1,4 @@
-NOMBREPSEUDOS: 34
+NOMBREPSEUDOS: 30
 NOM 0: Cisla
 NOM 1: Vorpyj
 NOM 2: Suumas
@@ -29,7 +29,3 @@ NOM 26: Zyzz
 NOM 27: Odette
 NOM 28: Nabila
 NOM 29: Debila
-NOM 30: Jean-Eudes
-NOM 31: Schalagetto
-NOM 32: EddyMalou
-NOM 33: Triplepatte

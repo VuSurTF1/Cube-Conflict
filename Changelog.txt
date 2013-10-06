@@ -1,0 +1,17 @@
+Version 0.2.0
+
+- Affichage du pseudo des aliés lorsqu'ils sont visés.
+- Amélioration du système d'info rapide.
+- Diminution du volume des bruitages de balles.
+- Correction du spawn d'armes en capture de bases.
+- Correction des armes/munitions en mode full stuff.
+- Ajout des boosts sur la map "Village".
+- Correction de la hitbox du sniper.
+- Option pour activer/désactiver le teamkill.
+- Meilleur ajustement des volumes des bruitages
+- Augmentation de la distance de tir du pistolet, famas, uzi.
+- Diminution du rayon d'impact du SMAW
+- Augmentation du rayon d'impact des grenades
+- Augementation des dégâts des grenades (120)
+- Suppression des launchers en attendent compatibilité W8
+- Les IA restent maintenant lorsqu'on change de map.
