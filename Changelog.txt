@@ -23,7 +23,7 @@ Version 0.3.0
 - Fix affichage du missile.
 - Fix plantage lorsqu'on ouvre la palette de couleurs.
 - Secousse lors des explosions.
-- Ajouter d'une arme : Le feu d'artifice.
+- Ajout d'une arme : Le feu d'artifice.
 - Munitions triplées en Aléatoire pour moins tomber à court.
 - L'effet de l'EPO et du joint se dissipent petit à petit.
 - La durée entre les spawns d'EPO et de joints a été diminiuée.
