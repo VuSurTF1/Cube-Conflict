@@ -15,3 +15,22 @@ Version 0.2.0
 - Augementation des dégâts des grenades (120)
 - Suppression des launchers en attendent compatibilité W8
 - Les IA restent maintenant lorsqu'on change de map.
+
+Version 0.3.0
+
+- Correction message de suicide.
+- Système d'XP et de niveaux.
+- Fix affichage du missile.
+- Fix plantage lorsqu'on ouvre la palette de couleurs.
+- Secousse lors des explosions.
+- Ajouter d'une arme : Le feu d'artifice.
+- Munitions triplées en Aléatoire pour moins tomber à court.
+- L'effet de l'EPO et du joint se dissipent petit à petit.
+- La durée entre les spawns d'EPO et de joints a été diminiuée.
+- Ajout du smiley "Sournois" déblocable lvl 10.
+- Ajout du smiley "Cool" déblocable lvl 20.
+- Rééquilibrage armes :
+--Dégats réduits pour le SMAW
+--Dégats légèrement augmentés Uzi, Famas, Epée
+--Boost de vitesse de l'épée diminué de moitié.
+--Uzi un peu plus précisise en tir visé.
