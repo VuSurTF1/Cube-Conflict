@@ -34,3 +34,8 @@ Version 0.3.0
 --Dégats légèrement augmentés Uzi, Famas, Epée
 --Boost de vitesse de l'épée diminué de moitié.
 --Uzi un peu plus précisise en tir visé.
+
+
+Version 0.3.xx
+
+- Amélioration de la palette de couleurs.
