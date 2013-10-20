@@ -36,6 +36,30 @@ Version 0.3.0
 --Uzi un peu plus précisise en tir visé.
 
 
-Version 0.3.xx
+Version 0.4.0
 
+Ajouts/améliorations :
+- Le niveau de chaque joueur/IA est affiché dans le tableau des scores.
+- Ajout de la map (non finie) "Usine".
 - Amélioration de la palette de couleurs.
+- Désormais impossible de gagner de l'XP contre des bots.
+- Les bots ont maintenant des noms de couleur différente.
+- Désormais impossible de modifier les maps officielles.
+- Désormais impossible de prendre le pseudal "VuSurTF1" (sauf moi :hap: )
+
+Gameplay :
+- Les stéros ont maintenant un effet temporaire de 30 secondes.
+- La famas est de nouveau un peu moins bonne.
+- Le fusil a pompe a encore légèrement été amélioré.
+- Les grenades sont devenues cheatées.
+- Le SMAW a une cadence de tir légèrement plus élevée.
+- La SV 98 fait un peu plus de dégâts.
+- Le recul du feu d'artifice a été légèrement diminué.
+
+Bugs :
+- Le spockgun s'affiche désormais correctement sur les smileys.
+- Divers bugs de chargement de fichiers fixés.
+- Les explosions provoquées par les ennemis s'affichent de nouveau.
+- Fix de l'équipe fantôme "good".
+- Fix dégâts des dégâts à sois même qui ne se faisaient pas en équipe.
+
