@@ -64,9 +64,21 @@ Bugs :
 - Fix dégâts des dégâts à sois même qui ne se faisaient pas en équipe.
 
 
-Version 0.4.3
+Version 0.5.0
 
+Ajouts/améliorations :
 - Animation du smiley sournois.
-- Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut à fond.
+- Animation du smiley cool.
+- Meilleure gestion des sons & particules d'armes en fonction de la distance.
+- Suppression de fichiers inutiles.
 - C'est un Famas, un fusil d'assaut, c'est une arme de guerre connard.
-- Suppression de fichiers inutiles et fix mineurs de la 0.4.0
+- Le pistolet a son propre bruitage.
+- Les messages pour les boosts ne vouvoient plus.
+
+Gameplay :
+- Diminution des dégâts des grenades pour éviter qu'elles one-shot.
+- Ajout d'une nouvelle arme : Le lance-flammes.
+
+Bugs :
+- Déconnexions intempestives fixées en multijoueur.
+- Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut à fond.
