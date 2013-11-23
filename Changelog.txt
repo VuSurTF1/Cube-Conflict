@@ -82,3 +82,26 @@ Gameplay :
 Bugs :
 - Déconnexions intempestives fixées en multijoueur.
 - Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut à fond.
+
+
+Version 0.6.0
+
+Ajouts/améliorations :
+- Ajout du mode duel.
+- Optimisation de la map village.
+- Amélioration de la map usine.
+- Travail en cours sur l’API MySQL pour sauvegarde en ligne et système de comptes.
+- Nouvelles options pour diminuer les graphismes.
+- Optimisation des modèles 3D.
+- Amélioration des effets de particules des armes.
+- Ajout de la map 2fort par JambonBeurreMan.
+
+
+Gameplay :
+- Le fusil à pompe fait plus de dégâts.
+- Les dégats du feu d'artifice on étés diminués.
+- WTF
+
+Bugs :
+- Les bots ne partent plus à chaque changement de partie.
+- Les bots se bougent le cul pour aller voler le drapeau ennemi.
