@@ -105,3 +105,33 @@ Gameplay :
 Bugs :
 - Les bots ne partent plus à chaque changement de partie.
 - Les bots se bougent le cul pour aller voler le drapeau ennemi.
+
+Version 0.7.0
+
+Ajouts/améliorations :
+- Nouveau mode de jeu "Identique" (chaque joueur possède la même arme)
+- Ajout d'effets météo.
+- Ajout du smiley :fou: (Déblocable lvl 30)
+- Nouveau bruitages.
+- Meilleure gestion des sons et nombre maximal de sons en même temps augmenté.
+- Ambiances sonores sur les maps.
+- Meilleur affichage du drapeau/ananas dans le hud.
+- Affichage des boosts dans le hud.
+- Hud pour le mode spectateur.
+- Possibilité de (dés)activer l'affichage des pseudos/dégâts au dessus des joueurs (je l'ai fait pour le trailer, pas pour vous :hap: ) 
+- Ajout d'un message d'annonce 10 secondes avant le spawn de l'EPO, Champis et Joint.
+- Travail toujours en cours sur l’API MySQL pour sauvegarde en ligne/succès et système de comptes.
+
+Gameplay :
+- Ajout du fusil éclair.
+- Ajout d'une autre arme secrète hyper cheatée qui sera nerf dans un mois.
+
+Bugs :
+- Les secousses d'explosions fonctionnent maintenant sur la version light.
+- Fix de l'affichage de la minimap buggé sur les deux versions.
+- Fix de quelques décos qui survenaient encore en multi...
+- Fix touches du mode spectateur pour la version light.
+- Fix des boosts qui s'activaient pour tous les bots sur la version light.
+- Fix du menu des choix de modes de jeux.
+- Le bug accroupi de la version light n’est toujours pas corrigé.
+- Fix bugs de caractères spéciaux.
