@@ -1,3 +1,6 @@
+vERSION 0.1.0 
+- Première release publique.
+
 Version 0.2.0
 
 - Affichage du pseudo des aliés lorsqu'ils sont visés.
@@ -15,6 +18,8 @@ Version 0.2.0
 - Augementation des dégâts des grenades (120)
 - Suppression des launchers en attendent compatibilité W8
 - Les IA restent maintenant lorsqu'on change de map.
+
+
 
 Version 0.3.0
 
@@ -34,6 +39,7 @@ Version 0.3.0
 --Dégats légèrement augmentés Uzi, Famas, Epée
 --Boost de vitesse de l'épée diminué de moitié.
 --Uzi un peu plus précisise en tir visé.
+
 
 
 Version 0.4.0
@@ -64,6 +70,7 @@ Bugs :
 - Fix dégâts des dégâts à sois même qui ne se faisaient pas en équipe.
 
 
+
 Version 0.5.0
 
 Ajouts/améliorations :
@@ -82,6 +89,7 @@ Gameplay :
 Bugs :
 - Déconnexions intempestives fixées en multijoueur.
 - Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut à fond.
+
 
 
 Version 0.6.0
@@ -105,6 +113,8 @@ Gameplay :
 Bugs :
 - Les bots ne partent plus à chaque changement de partie.
 - Les bots se bougent le cul pour aller voler le drapeau ennemi.
+
+
 
 Version 0.7.0
 
@@ -135,3 +145,64 @@ Bugs :
 - Fix du menu des choix de modes de jeux.
 - Le bug accroupi de la version light n’est toujours pas corrigé.
 - Fix bugs de caractères spéciaux.
+
+
+
+Version 0.8.0
+
+Ajout/améliorations :
+- Optimisations à la compilation du programme jusque 30 fps de gains !
+- Météo et heure aléatoire sur les maps extérieures.
+- Nouveaux bruitages pour les maps.
+- Le bas de votre smiley est visible si vous regardez à terre.
+- Editeur de map en ligne.
+- Map "Village" terminée.
+- Vous avez maintenant votre propre ombre :bave:
+- Amélioration et optimisation des explosions.
+- Nouvelle image de fond de menu, animée en plus.
+- Affichage du bouclier à la première personne.
+- Les boucliers se dégradent petit à petit visuellement.
+- Affichage du sang sur l'écran en cas de dommages/vie basse.
+- Nouveau menu de choix de smiley.
+- Nouveaux bruitages pour panachay, cochon grillay, glock .22, boucliers.
+- Affichage du temps qu'il reste avant de pouvoir spawner.
+- Meilleur équilibrage des bruitages.
+- Optimisation de la pluspart des modèles 3D (jusqu'à 20% de polygones en moins).
+- Ajout de nouveaux bones sur les anciens smileys en vue de l'ajout de hats, capes, etc... :hap:
+- Traduction anglaise en cours.
+
+Gameplay :
+- Ajout du mode hardcore :
+Pas de hud.
+Rechargement d'arme (touche R par défaut)
+Recul vertical
+Pas de bouclier en bois au spawn.
+
+- Meilleur système de boucliers (3 matières différentes)
+Bois : Absorbe 25% de dégâts. (Abondant, 50 PV)
+Fer : Absorbe 50% de dégâts. (Fréquent, 100PV)
+Or : Absorbe 75% de dégâts. (Rare, 200 PV)
+
+- Spawn avec bouclier en bois de 75 pv sur tous les modes de jeux sauf en mode hardcore.
+- Possibilité de choisir la durée des parties.
+
+Bugs :
+- Fix d'un bug qui faisait planter le jeu si un bot passait sur une entités non reliée par une trajectoire.
+- Fix couleur aléatoire pour l'UZI et fusil électrique avec les champis.
+- Fix messages d'infos bruts dans la console.
+- Fix bug de caméra à la 3ème personne.
+- Fix de l'affchage du radar lorsqu'on l'on a le drapeau.
+- Fix du fusil plasma et fusil électrique dans l'éditeur de maps.
+- Fixé une bonne fois pour toute l'affichage du viseur du sniper.
+- La barre d'xp est maintenant parfaitement centrée sur toutes les résolutions d'écran.
+- Correction du bug accroupi de la version light (non je déconne :hap: )
+
+
+
+
+Version 0.9.0 (à venir)
+
+Prévu :
+- Améliorer écran de fin de partie et de mort.
+- Finir la map Usine.
+- Améliorer animation de zoom.
