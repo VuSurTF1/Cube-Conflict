@@ -8,6 +8,12 @@ Vous pouvez modifier et partager le contenu du jeu sans accord obligatoire,
 à la seule condition que vous spécifiez clairement l'auteur initial du projet 
 (VuSurTF1/Jean Onche) et que votre adaptation soit sous la même licence.
 
+Contributeurs :
+Chef de projet : VuSurTF1
+Site web, comptes, gestion communauté : LordSpock (PixStudio)
+Modèles 3D, idées, maps : Skyser, JambonBeurreMan
+
+
 
 You are free:
 
