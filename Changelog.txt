@@ -1,7 +1,12 @@
-vERSION 0.1.0 
+============= vERSION 0.0.1 ============= 
+
 - Première release publique.
 
-Version 0.2.0
+
+
+
+
+============= Version 0.0.2 ============= 
 
 - Affichage du pseudo des aliés lorsqu'ils sont visés.
 - Amélioration du système d'info rapide.
@@ -21,7 +26,9 @@ Version 0.2.0
 
 
 
-Version 0.3.0
+
+
+============= Version 0.0.3 ============= 
 
 - Correction message de suicide.
 - Système d'XP et de niveaux.
@@ -42,7 +49,9 @@ Version 0.3.0
 
 
 
-Version 0.4.0
+
+
+============= Version 0.0.4 ============= 
 
 Ajouts/améliorations :
 - Le niveau de chaque joueur/IA est affiché dans le tableau des scores.
@@ -71,7 +80,9 @@ Bugs :
 
 
 
-Version 0.5.0
+
+
+============= Version 0.0.5 ============= 
 
 Ajouts/améliorations :
 - Animation du smiley sournois.
@@ -92,7 +103,9 @@ Bugs :
 
 
 
-Version 0.6.0
+
+
+============= Version 0.0.6 ============= 
 
 Ajouts/améliorations :
 - Ajout du mode duel.
@@ -116,7 +129,9 @@ Bugs :
 
 
 
-Version 0.7.0
+
+
+============= Version 0.0.7============= 
 
 Ajouts/améliorations :
 - Nouveau mode de jeu "Identique" (chaque joueur possède la même arme)
@@ -148,7 +163,9 @@ Bugs :
 
 
 
-Version 0.8.0
+
+
+============= Version 0.0.8 ============= 
 
 Ajout/améliorations :
 - Optimisations à la compilation du programme jusque 30 fps de gains !
@@ -200,9 +217,78 @@ Bugs :
 
 
 
-Version 0.9.0 (à venir)
 
-Prévu :
-- Améliorer écran de fin de partie et de mort.
-- Finir la map Usine.
-- Améliorer animation de zoom.
+============= Version 0.0.9 ============= 
+
+Ajouts :
+- Ajout des hats pour customiser son smiley.
+- Ecran de mort tout beau tout neuf avec affichage du tueur, meilleur affichage du décompte avant spawn.
+- Ajout de douilles qui partent dans tous les sens lors des tirs (Minigun, Mossberg 500 et SV 98).
+- Ajout d'une ambiance "Apocalypse"
+- Ajout d'une musique pour le menus principal.
+- Balise [Bot] devant le pseudo des bots.
+- Ajout de verbes en "ay" pour les messages de kills.
+
+Améliorations :
+- Nouveau menu principal et image de fond.
+- Nouveau menu pour paramétrer sa partie.
+- Amélioration de divers bruitages (Explosions, fusées, Mossberg 500, M-32)
+- Amélioration de l'ambiance pluie/brouillard.
+- Amélioration graphique des explosions.
+- Amélioration graphique des flammes.
+- Amélioration graphique du flash de museau des armes.
+- Amélioration de l'animation du fusil plasma et du SMAW.
+- Amélioration des particules générées par les projectiles.
+- Le flash d'explosion du feu d'artifice est dorénavant coloré.
+- Réorganisation totale (et meilleure) des modes de jeux.
+- L'alarme des missiles Nordko s'active dorénavant lorsque le missile est lancé et fonctionne en multijoueurs.
+- Retour du "Bloh bloh" de l'Uzi.
+- Affichage coloré des FPS (rouge = mauvais, jaune = moyen, vert = optimal)
+- Synchronisation des menus de la version normal et light. (Utilisent le même fichier cfg)
+- Optimisation du hud.
+
+Gameplay :
+- Ajout d'aptitudes. (Soldat, Médecin, Américain, Ninja, Magicien, Vampire, Kamikaze, Faucheuse)
+- Ajout d'armes relatives aux aptitudes (Ceinture d'explosifs, Medigun)
+- Ajout de l'arbalète.
+- Ajout de deux armes au corps à corps (Ban hammer et Master sword)
+- Vous spawnez dorénavant avec une arme de c-à-c (deux pour le Ninja) choisie au hasard parmis les trois.
+- Ajout du type de jeu "Corps à corps" (uniquement les armes c-à-c sont disponibles).
+- Diminution du temps d'attente pour respawner pour les modes de jeu avec temps d'attente.
+- Diminution de l'effet de l'EPO.
+- Meilleurs dégâts pour le fusil électrique.
+- Le pistolet tire plus vite mais fait moins de dégâts.
+- Ajout d'un tremblement pour les armes à cadence rapides.
+- Ajout d'un léger récul verticale pour la M32 le Fusil à pompe et SV 98.
+- La touche "F" par défaut permet maintenant de sélectionner une arme au Corps à corps.
+- La touche "G" par défaut permet maintenant de sélectionner la M-32.
+- La vitesse du missile nucléaire a été ralentie afin de bien le voir arriver sur sa gueule :hap:
+- Meilleure gestion du nombre de munitions : 
+Chaque caisses de munitions donnent 1/4 des munitions maximales pour toutes les armes.
+Vous spawnez 300% des munitions max. en aléatoire/identique, 100% des munitions max. en full-stuff et 25% des munitions max. dans les autres modes de jeu.
+
+Bugs :
+- Fix d'un crash causé par les waypoints.
+- Fix d'un crash causé par l'affichage des boucliers.
+- Ajout des règles manquantes dans le tableau des scores.
+- Fix d'un bug d'affichage de la lunette de sniper qui n'était plus transparente.
+- Fix de l'EPO qui affectait toutes les bots présents si on en prenait.
+- Fix d'un bug d'affichage de particules qui les rendaient plus claires parfois.
+- Fix des bugs d'affichage du hud lorsqu'on était specateur ou mort.
+- L'affichage de l'XP et des LVL sont désormais parfaitement centrés.
+- Préchargement des images de viseurs pour éviter les chutes de framerate.
+- Les FPS ne s'affichent plus derrière le hud.
+- Les bots osent de nouveau balancer le missile Nordko.
+- Les waypoints se chargement désormais correctement lors d'un changement de map automatique.
+- Les modèles de munitions du M32 et Feu d'artifices ont désormais une taille normale.
+- Correction de waypoints sur la map Village pour que les bots puissent rapporter les drapeaux.
+- Ajout d'une base manquante sur la map Usine
+- Les couleurs sont maintenant Jaune/Orange dans le tableau des scores pour les modes de jeux par équipe.
+- Fix d'un bug d'affichage du terrain (pouvant faire planter le jeu) lorsqu'on était mort.
+- Retrait d'une vieille commande de développement permettant de donner de l'XP.
+- Lorsque vous mourrez en l'air, votre cadavre retombera par terre au lieu de flotter dans les airs.
+- Fix d'un bug qui permettait de reprendre un bouclier en bois même si votre bouclier était tout neuf.
+- Correction du bug de couleurs pour la jauge de capture de base.
+- Le fusil à pompe n'est plus tenu par un handicapé moteur.
+- La précision fonctionne dorénavant correctement pour la version light.
+- Correction du bug accroupi de la version light (lol).
