@@ -292,3 +292,20 @@ Bugs :
 - Le fusil à pompe n'est plus tenu par un handicapé moteur.
 - La précision fonctionne dorénavant correctement pour la version light.
 - Correction du bug accroupi de la version light (lol).
+
+
+
+
+
+============= Version 0.1.0 ============= (A VENIR)
+Améliorations :
+- Nouveaux smileys (malade, content, colère).
+- Rénovation de la map "Usine".
+- Ajout de bruitages pour le sang.
+- Ajout d'effet de sang lors d'un sucide.
+- Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
+- Retour au menu en fin de partie pour le jeu en solo.
+
+Bugs :
+- La pluie fonctionne enfin sur la version light.
+- Fix la durée de partie qui pouvait être mise à zéro.
