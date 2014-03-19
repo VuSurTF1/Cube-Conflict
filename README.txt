@@ -11,7 +11,7 @@ Vous pouvez modifier et partager le contenu du jeu sans accord obligatoire,
 Contributeurs :
 Chef de projet : VuSurTF1
 Site web, comptes, gestion communauté : LordSpock (PixStudio)
-Modèles 3D, idées, maps : Skyser, JambonBeurreMan
+Autres : Skyser, JoueurZero, JambonBeurreMan, Kara, Harmonyra, Ugo Jong-Un.
 
 
 
