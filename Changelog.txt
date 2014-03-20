@@ -302,10 +302,21 @@ Améliorations :
 - Nouveaux smileys (malade, content, colère).
 - Rénovation de la map "Usine".
 - Ajout de bruitages pour le sang.
-- Ajout d'effet de sang lors d'un sucide.
+- Ajout d'effet de sang lors d'un suicide.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
+- Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
+- EPO Gérée côté serveur.
+- Meilleure gestion des données (hats/lvls/classes) client/serveur.
 - Retour au menu en fin de partie pour le jeu en solo.
+
+Gameplay :
+- La ceinture d'explosifs a été nerf.
+Modifications de l'EPO :
+- L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
+- Meilleur décroissement de l'effet de l'EPO.
+- L'EPO dure désormais 45 secondes.
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
+- Les Bots profitent désormais l'effet de l'EPO.
 - Fix la durée de partie qui pouvait être mise à zéro.
