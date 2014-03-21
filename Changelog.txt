@@ -305,7 +305,10 @@ Améliorations :
 - Ajout d'effet de sang lors d'un suicide.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
 - Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
-- EPO Gérée côté serveur.
+- Ajout d'un joint et d'un effet de fumée lorsque le smiley est sous l'effet d'un joint.
+- Nouveau modèle 3D pour le joint.
+- Ajout d'une musique lors de l'utilisation d'un joint.
+- EPO et Joint Gérés côté serveur.
 - Meilleure gestion des données (hats/lvls/classes) client/serveur.
 - Retour au menu en fin de partie pour le jeu en solo.
 
@@ -315,8 +318,9 @@ Modifications de l'EPO :
 - L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
 - Meilleur décroissement de l'effet de l'EPO.
 - L'EPO dure désormais 45 secondes.
+- Ajout d'hallucinations visuelles aléatoires pour les champis.
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
-- Les Bots profitent désormais l'effet de l'EPO.
+- Les Bots profitent désormais l'effet de l'EPO et des joints.
 - Fix la durée de partie qui pouvait être mise à zéro.
