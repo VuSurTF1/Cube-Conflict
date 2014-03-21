@@ -313,6 +313,7 @@ Améliorations :
 - Retour au menu en fin de partie pour le jeu en solo.
 
 Gameplay :
+- Ajout de l'AK 47.
 - La ceinture d'explosifs a été nerf.
 Modifications de l'EPO :
 - L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
