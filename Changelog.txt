@@ -1,90 +1,216 @@
-============= vERSION 0.0.1 ============= 
-
-- Première release publique.
-
-
-
-
-
-============= Version 0.0.2 ============= 
-
-- Affichage du pseudo des aliés lorsqu'ils sont visés.
-- Amélioration du système d'info rapide.
-- Diminution du volume des bruitages de balles.
-- Correction du spawn d'armes en capture de bases.
-- Correction des armes/munitions en mode full stuff.
-- Ajout des boosts sur la map "Village".
-- Correction de la hitbox du sniper.
-- Option pour activer/désactiver le teamkill.
-- Meilleur ajustement des volumes des bruitages
-- Augmentation de la distance de tir du pistolet, famas, uzi.
-- Diminution du rayon d'impact du SMAW
-- Augmentation du rayon d'impact des grenades
-- Augementation des dégâts des grenades (120)
-- Suppression des launchers en attendent compatibilité W8
-- Les IA restent maintenant lorsqu'on change de map.
-
-
-
-
-
-============= Version 0.0.3 ============= 
-
-- Correction message de suicide.
-- Système d'XP et de niveaux.
-- Fix affichage du missile.
-- Fix plantage lorsqu'on ouvre la palette de couleurs.
-- Secousse lors des explosions.
-- Ajout d'une arme : Le feu d'artifice.
-- Munitions triplées en Aléatoire pour moins tomber à court.
-- L'effet de l'EPO et du joint se dissipent petit à petit.
-- La durée entre les spawns d'EPO et de joints a été diminiuée.
-- Ajout du smiley "Sournois" déblocable lvl 10.
-- Ajout du smiley "Cool" déblocable lvl 20.
-- Rééquilibrage armes :
---Dégats réduits pour le SMAW
---Dégats légèrement augmentés Uzi, Famas, Epée
---Boost de vitesse de l'épée diminué de moitié.
---Uzi un peu plus précisise en tir visé.
-
-
-
-
-
-============= Version 0.0.4 ============= 
-
-Ajouts/améliorations :
-- Le niveau de chaque joueur/IA est affiché dans le tableau des scores.
-- Ajout de la map (non finie) "Usine".
-- Amélioration de la palette de couleurs.
-- Désormais impossible de gagner de l'XP contre des bots.
-- Les bots ont maintenant des noms de couleur différente.
-- Désormais impossible de modifier les maps officielles.
-- Désormais impossible de prendre le pseudal "VuSurTF1" (sauf moi :hap: )
+============= Version 0.1.0 ============= (A VENIR)
+AmÃ©liorations :
+- Nouveaux smileys (malade, content, colÃ¨re).
+- RÃ©novation de la map "Usine".
+- Ajout de bruitages pour le sang.
+- Ajout d'effet de sang lors d'un suicide.
+- Syncronisation Ã  100% des codes client/serveur entre la version normale et light pour stabilitÃ© optimale.
+- Ajout d'une seringue bleue plantÃ©e dans le smiley lorsqu'il a l'EPO.
+- Ajout d'un joint et d'un effet de fumÃ©e lorsque le smiley est sous l'effet d'un joint.
+- Nouveau modÃ¨le 3D pour le joint.
+- Ajout d'une musique lors de l'utilisation d'un joint.
+- EPO et Joint GÃ©rÃ©s cÃ´tÃ© serveur.
+- Meilleure gestion des donnÃ©es (hats/lvls/classes) client/serveur.
+- Retour au menu en fin de partie pour le jeu en solo.
 
 Gameplay :
-- Les stéros ont maintenant un effet temporaire de 30 secondes.
-- La famas est de nouveau un peu moins bonne.
-- Le fusil a pompe a encore légèrement été amélioré.
-- Les grenades sont devenues cheatées.
-- Le SMAW a une cadence de tir légèrement plus élevée.
-- La SV 98 fait un peu plus de dégâts.
-- Le recul du feu d'artifice a été légèrement diminué.
+- Ajout de l'AK 47.
+- La ceinture d'explosifs a Ã©tÃ© nerf.
+Modifications de l'EPO :
+- L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
+- Meilleur dÃ©croissement de l'effet de l'EPO.
+- L'EPO dure dÃ©sormais 45 secondes.
+- Ajout d'hallucinations visuelles alÃ©atoires pour les champis.
 
 Bugs :
-- Le spockgun s'affiche désormais correctement sur les smileys.
-- Divers bugs de chargement de fichiers fixés.
-- Les explosions provoquées par les ennemis s'affichent de nouveau.
-- Fix de l'équipe fantôme "good".
-- Fix dégâts des dégâts à sois même qui ne se faisaient pas en équipe.
+- La pluie fonctionne enfin sur la version light.
+- Les Bots profitent dÃ©sormais l'effet de l'EPO et des joints.
+- Fix la durÃ©e de partie qui pouvait Ãªtre mise Ã  zÃ©ro.
 
 
+============= Version 0.0.9 ============= 
 
+Ajouts :
+- Ajout des hats pour customiser son smiley.
+- Ecran de mort tout beau tout neuf avec affichage du tueur, meilleur affichage du dÃ©compte avant spawn.
+- Ajout de douilles qui partent dans tous les sens lors des tirs (Minigun, Mossberg 500 et SV 98).
+- Ajout d'une ambiance "Apocalypse"
+- Ajout d'une musique pour le menus principal.
+- Balise [Bot] devant le pseudo des bots.
+- Ajout de verbes en "ay" pour les messages de kills.
+
+AmÃ©liorations :
+- Nouveau menu principal et image de fond.
+- Nouveau menu pour paramÃ©trer sa partie.
+- AmÃ©lioration de divers bruitages (Explosions, fusÃ©es, Mossberg 500, M-32)
+- AmÃ©lioration de l'ambiance pluie/brouillard.
+- AmÃ©lioration graphique des explosions.
+- AmÃ©lioration graphique des flammes.
+- AmÃ©lioration graphique du flash de museau des armes.
+- AmÃ©lioration de l'animation du fusil plasma et du SMAW.
+- AmÃ©lioration des particules gÃ©nÃ©rÃ©es par les projectiles.
+- Le flash d'explosion du feu d'artifice est dorÃ©navant colorÃ©.
+- RÃ©organisation totale (et meilleure) des modes de jeux.
+- L'alarme des missiles Nordko s'active dorÃ©navant lorsque le missile est lancÃ© et fonctionne en multijoueurs.
+- Retour du "Bloh bloh" de l'Uzi.
+- Affichage colorÃ© des FPS (rouge = mauvais, jaune = moyen, vert = optimal)
+- Synchronisation des menus de la version normal et light. (Utilisent le mÃªme fichier cfg)
+- Optimisation du hud.
+
+Gameplay :
+- Ajout d'aptitudes. (Soldat, MÃ©decin, AmÃ©ricain, Ninja, Magicien, Vampire, Kamikaze, Faucheuse)
+- Ajout d'armes relatives aux aptitudes (Ceinture d'explosifs, Medigun)
+- Ajout de l'arbalÃ¨te.
+- Ajout de deux armes au corps Ã  corps (Ban hammer et Master sword)
+- Vous spawnez dorÃ©navant avec une arme de c-Ã -c (deux pour le Ninja) choisie au hasard parmis les trois.
+- Ajout du type de jeu "Corps Ã  corps" (uniquement les armes c-Ã -c sont disponibles).
+- Diminution du temps d'attente pour respawner pour les modes de jeu avec temps d'attente.
+- Diminution de l'effet de l'EPO.
+- Meilleurs dÃ©gÃ¢ts pour le fusil Ã©lectrique.
+- Le pistolet tire plus vite mais fait moins de dÃ©gÃ¢ts.
+- Ajout d'un tremblement pour les armes Ã  cadence rapides.
+- Ajout d'un lÃ©ger rÃ©cul verticale pour la M32 le Fusil Ã  pompe et SV 98.
+- La touche "F" par dÃ©faut permet maintenant de sÃ©lectionner une arme au Corps Ã  corps.
+- La touche "G" par dÃ©faut permet maintenant de sÃ©lectionner la M-32.
+- La vitesse du missile nuclÃ©aire a Ã©tÃ© ralentie afin de bien le voir arriver sur sa gueule :hap:
+- Meilleure gestion du nombre de munitions : 
+Chaque caisses de munitions donnent 1/4 des munitions maximales pour toutes les armes.
+Vous spawnez 300% des munitions max. en alÃ©atoire/identique, 100% des munitions max. en full-stuff et 25% des munitions max. dans les autres modes de jeu.
+
+Bugs :
+- Fix d'un crash causÃ© par les waypoints.
+- Fix d'un crash causÃ© par l'affichage des boucliers.
+- Ajout des rÃ¨gles manquantes dans le tableau des scores.
+- Fix d'un bug d'affichage de la lunette de sniper qui n'Ã©tait plus transparente.
+- Fix de l'EPO qui affectait toutes les bots prÃ©sents si on en prenait.
+- Fix d'un bug d'affichage de particules qui les rendaient plus claires parfois.
+- Fix des bugs d'affichage du hud lorsqu'on Ã©tait specateur ou mort.
+- L'affichage de l'XP et des LVL sont dÃ©sormais parfaitement centrÃ©s.
+- PrÃ©chargement des images de viseurs pour Ã©viter les chutes de framerate.
+- Les FPS ne s'affichent plus derriÃ¨re le hud.
+- Les bots osent de nouveau balancer le missile Nordko.
+- Les waypoints se chargement dÃ©sormais correctement lors d'un changement de map automatique.
+- Les modÃ¨les de munitions du M32 et Feu d'artifices ont dÃ©sormais une taille normale.
+- Correction de waypoints sur la map Village pour que les bots puissent rapporter les drapeaux.
+- Ajout d'une base manquante sur la map Usine
+- Les couleurs sont maintenant Jaune/Orange dans le tableau des scores pour les modes de jeux par Ã©quipe.
+- Fix d'un bug d'affichage du terrain (pouvant faire planter le jeu) lorsqu'on Ã©tait mort.
+- Retrait d'une vieille commande de dÃ©veloppement permettant de donner de l'XP.
+- Lorsque vous mourrez en l'air, votre cadavre retombera par terre au lieu de flotter dans les airs.
+- Fix d'un bug qui permettait de reprendre un bouclier en bois mÃªme si votre bouclier Ã©tait tout neuf.
+- Correction du bug de couleurs pour la jauge de capture de base.
+- Le fusil Ã  pompe n'est plus tenu par un handicapÃ© moteur.
+- La prÃ©cision fonctionne dorÃ©navant correctement pour la version light.
+- Correction du bug accroupi de la version light (lol).
+
+
+============= Version 0.0.8 ============= 
+
+Ajout/amÃ©liorations :
+- Optimisations Ã  la compilation du programme jusque 30 fps de gains !
+- MÃ©tÃ©o et heure alÃ©atoire sur les maps extÃ©rieures.
+- Nouveaux bruitages pour les maps.
+- Le bas de votre smiley est visible si vous regardez Ã  terre.
+- Editeur de map en ligne.
+- Map "Village" terminÃ©e.
+- Vous avez maintenant votre propre ombre :bave:
+- AmÃ©lioration et optimisation des explosions.
+- Nouvelle image de fond de menu, animÃ©e en plus.
+- Affichage du bouclier Ã  la premiÃ¨re personne.
+- Les boucliers se dÃ©gradent petit Ã  petit visuellement.
+- Affichage du sang sur l'Ã©cran en cas de dommages/vie basse.
+- Nouveau menu de choix de smiley.
+- Nouveaux bruitages pour panachay, cochon grillay, glock .22, boucliers.
+- Affichage du temps qu'il reste avant de pouvoir spawner.
+- Meilleur Ã©quilibrage des bruitages.
+- Optimisation de la pluspart des modÃ¨les 3D (jusqu'Ã  20% de polygones en moins).
+- Ajout de nouveaux bones sur les anciens smileys en vue de l'ajout de hats, capes, etc... :hap:
+- Traduction anglaise en cours.
+
+Gameplay :
+- Ajout du mode hardcore :
+Pas de hud.
+Rechargement d'arme (touche R par dÃ©faut)
+Recul vertical
+Pas de bouclier en bois au spawn.
+
+- Meilleur systÃ¨me de boucliers (3 matiÃ¨res diffÃ©rentes)
+Bois : Absorbe 25% de dÃ©gÃ¢ts. (Abondant, 50 PV)
+Fer : Absorbe 50% de dÃ©gÃ¢ts. (FrÃ©quent, 100PV)
+Or : Absorbe 75% de dÃ©gÃ¢ts. (Rare, 200 PV)
+
+- Spawn avec bouclier en bois de 75 pv sur tous les modes de jeux sauf en mode hardcore.
+- PossibilitÃ© de choisir la durÃ©e des parties.
+
+Bugs :
+- Fix d'un bug qui faisait planter le jeu si un bot passait sur une entitÃ©s non reliÃ©e par une trajectoire.
+- Fix couleur alÃ©atoire pour l'UZI et fusil Ã©lectrique avec les champis.
+- Fix messages d'infos bruts dans la console.
+- Fix bug de camÃ©ra Ã  la 3Ã¨me personne.
+- Fix de l'affchage du radar lorsqu'on l'on a le drapeau.
+- Fix du fusil plasma et fusil Ã©lectrique dans l'Ã©diteur de maps.
+- FixÃ© une bonne fois pour toute l'affichage du viseur du sniper.
+- La barre d'xp est maintenant parfaitement centrÃ©e sur toutes les rÃ©solutions d'Ã©cran.
+- Correction du bug accroupi de la version light (non je dÃ©conne :hap: )
+
+
+============= Version 0.0.7============= 
+
+Ajouts/amÃ©liorations :
+- Nouveau mode de jeu "Identique" (chaque joueur possÃ¨de la mÃªme arme)
+- Ajout d'effets mÃ©tÃ©o.
+- Ajout du smiley :fou: (DÃ©blocable lvl 30)
+- Nouveau bruitages.
+- Meilleure gestion des sons et nombre maximal de sons en mÃªme temps augmentÃ©.
+- Ambiances sonores sur les maps.
+- Meilleur affichage du drapeau/ananas dans le hud.
+- Affichage des boosts dans le hud.
+- Hud pour le mode spectateur.
+- PossibilitÃ© de (dÃ©s)activer l'affichage des pseudos/dÃ©gÃ¢ts au dessus des joueurs (je l'ai fait pour le trailer, pas pour vous :hap: ) 
+- Ajout d'un message d'annonce 10 secondes avant le spawn de l'EPO, Champis et Joint.
+- Travail toujours en cours sur lâ€™API MySQL pour sauvegarde en ligne/succÃ¨s et systÃ¨me de comptes.
+
+Gameplay :
+- Ajout du fusil Ã©clair.
+- Ajout d'une autre arme secrÃ¨te hyper cheatÃ©e qui sera nerf dans un mois.
+
+Bugs :
+- Les secousses d'explosions fonctionnent maintenant sur la version light.
+- Fix de l'affichage de la minimap buggÃ© sur les deux versions.
+- Fix de quelques dÃ©cos qui survenaient encore en multi...
+- Fix touches du mode spectateur pour la version light.
+- Fix des boosts qui s'activaient pour tous les bots sur la version light.
+- Fix du menu des choix de modes de jeux.
+- Le bug accroupi de la version light nâ€™est toujours pas corrigÃ©.
+- Fix bugs de caractÃ¨res spÃ©ciaux.
+
+
+============= Version 0.0.6 ============= 
+
+Ajouts/amÃ©liorations :
+- Ajout du mode duel.
+- Optimisation de la map village.
+- AmÃ©lioration de la map usine.
+- Travail en cours sur lâ€™API MySQL pour sauvegarde en ligne et systÃ¨me de comptes.
+- Nouvelles options pour diminuer les graphismes.
+- Optimisation des modÃ¨les 3D.
+- AmÃ©lioration des effets de particules des armes.
+- Ajout de la map 2fort par JambonBeurreMan.
+
+
+Gameplay :
+- Le fusil Ã  pompe fait plus de dÃ©gÃ¢ts.
+- Les dÃ©gats du feu d'artifice on Ã©tÃ©s diminuÃ©s.
+- WTF
+
+Bugs :
+- Les bots ne partent plus Ã  chaque changement de partie.
+- Les bots se bougent le cul pour aller voler le drapeau ennemi.
 
 
 ============= Version 0.0.5 ============= 
 
-Ajouts/améliorations :
+Ajouts/amÃ©liorations :
 - Animation du smiley sournois.
 - Animation du smiley cool.
 - Meilleure gestion des sons & particules d'armes en fonction de la distance.
@@ -94,234 +220,81 @@ Ajouts/améliorations :
 - Les messages pour les boosts ne vouvoient plus.
 
 Gameplay :
-- Diminution des dégâts des grenades pour éviter qu'elles one-shot.
+- Diminution des dÃ©gÃ¢ts des grenades pour Ã©viter qu'elles one-shot.
 - Ajout d'une nouvelle arme : Le lance-flammes.
 
 Bugs :
-- Déconnexions intempestives fixées en multijoueur.
-- Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut à fond.
+- DÃ©connexions intempestives fixÃ©es en multijoueur.
+- Fix de l'affichage bizarre des smileys et de leurs stuffs lorsqu'ils regardent en bas ou en haut Ã  fond.
 
 
+============= Version 0.0.4 ============= 
 
-
-
-============= Version 0.0.6 ============= 
-
-Ajouts/améliorations :
-- Ajout du mode duel.
-- Optimisation de la map village.
-- Amélioration de la map usine.
-- Travail en cours sur l’API MySQL pour sauvegarde en ligne et système de comptes.
-- Nouvelles options pour diminuer les graphismes.
-- Optimisation des modèles 3D.
-- Amélioration des effets de particules des armes.
-- Ajout de la map 2fort par JambonBeurreMan.
-
+Ajouts/amÃ©liorations :
+- Le niveau de chaque joueur/IA est affichÃ© dans le tableau des scores.
+- Ajout de la map (non finie) "Usine".
+- AmÃ©lioration de la palette de couleurs.
+- DÃ©sormais impossible de gagner de l'XP contre des bots.
+- Les bots ont maintenant des noms de couleur diffÃ©rente.
+- DÃ©sormais impossible de modifier les maps officielles.
+- DÃ©sormais impossible de prendre le pseudal "VuSurTF1" (sauf moi :hap: )
 
 Gameplay :
-- Le fusil à pompe fait plus de dégâts.
-- Les dégats du feu d'artifice on étés diminués.
-- WTF
+- Les stÃ©ros ont maintenant un effet temporaire de 30 secondes.
+- La famas est de nouveau un peu moins bonne.
+- Le fusil a pompe a encore lÃ©gÃ¨rement Ã©tÃ© amÃ©liorÃ©.
+- Les grenades sont devenues cheatÃ©es.
+- Le SMAW a une cadence de tir lÃ©gÃ¨rement plus Ã©levÃ©e.
+- La SV 98 fait un peu plus de dÃ©gÃ¢ts.
+- Le recul du feu d'artifice a Ã©tÃ© lÃ©gÃ¨rement diminuÃ©.
 
 Bugs :
-- Les bots ne partent plus à chaque changement de partie.
-- Les bots se bougent le cul pour aller voler le drapeau ennemi.
+- Le spockgun s'affiche dÃ©sormais correctement sur les smileys.
+- Divers bugs de chargement de fichiers fixÃ©s.
+- Les explosions provoquÃ©es par les ennemis s'affichent de nouveau.
+- Fix de l'Ã©quipe fantÃ´me "good".
+- Fix dÃ©gÃ¢ts des dÃ©gÃ¢ts Ã  sois mÃªme qui ne se faisaient pas en Ã©quipe.
 
 
+============= Version 0.0.3 ============= 
+
+- Correction message de suicide.
+- SystÃ¨me d'XP et de niveaux.
+- Fix affichage du missile.
+- Fix plantage lorsqu'on ouvre la palette de couleurs.
+- Secousse lors des explosions.
+- Ajout d'une arme : Le feu d'artifice.
+- Munitions triplÃ©es en AlÃ©atoire pour moins tomber Ã  court.
+- L'effet de l'EPO et du joint se dissipent petit Ã  petit.
+- La durÃ©e entre les spawns d'EPO et de joints a Ã©tÃ© diminiuÃ©e.
+- Ajout du smiley "Sournois" dÃ©blocable lvl 10.
+- Ajout du smiley "Cool" dÃ©blocable lvl 20.
+- RÃ©Ã©quilibrage armes :
+--DÃ©gats rÃ©duits pour le SMAW
+--DÃ©gats lÃ©gÃ¨rement augmentÃ©s Uzi, Famas, EpÃ©e
+--Boost de vitesse de l'Ã©pÃ©e diminuÃ© de moitiÃ©.
+--Uzi un peu plus prÃ©cisise en tir visÃ©.
 
 
+============= Version 0.0.2 ============= 
 
-============= Version 0.0.7============= 
-
-Ajouts/améliorations :
-- Nouveau mode de jeu "Identique" (chaque joueur possède la même arme)
-- Ajout d'effets météo.
-- Ajout du smiley :fou: (Déblocable lvl 30)
-- Nouveau bruitages.
-- Meilleure gestion des sons et nombre maximal de sons en même temps augmenté.
-- Ambiances sonores sur les maps.
-- Meilleur affichage du drapeau/ananas dans le hud.
-- Affichage des boosts dans le hud.
-- Hud pour le mode spectateur.
-- Possibilité de (dés)activer l'affichage des pseudos/dégâts au dessus des joueurs (je l'ai fait pour le trailer, pas pour vous :hap: ) 
-- Ajout d'un message d'annonce 10 secondes avant le spawn de l'EPO, Champis et Joint.
-- Travail toujours en cours sur l’API MySQL pour sauvegarde en ligne/succès et système de comptes.
-
-Gameplay :
-- Ajout du fusil éclair.
-- Ajout d'une autre arme secrète hyper cheatée qui sera nerf dans un mois.
-
-Bugs :
-- Les secousses d'explosions fonctionnent maintenant sur la version light.
-- Fix de l'affichage de la minimap buggé sur les deux versions.
-- Fix de quelques décos qui survenaient encore en multi...
-- Fix touches du mode spectateur pour la version light.
-- Fix des boosts qui s'activaient pour tous les bots sur la version light.
-- Fix du menu des choix de modes de jeux.
-- Le bug accroupi de la version light n’est toujours pas corrigé.
-- Fix bugs de caractères spéciaux.
+- Affichage du pseudo des aliÃ©s lorsqu'ils sont visÃ©s.
+- AmÃ©lioration du systÃ¨me d'info rapide.
+- Diminution du volume des bruitages de balles.
+- Correction du spawn d'armes en capture de bases.
+- Correction des armes/munitions en mode full stuff.
+- Ajout des boosts sur la map "Village".
+- Correction de la hitbox du sniper.
+- Option pour activer/dÃ©sactiver le teamkill.
+- Meilleur ajustement des volumes des bruitages
+- Augmentation de la distance de tir du pistolet, famas, uzi.
+- Diminution du rayon d'impact du SMAW
+- Augmentation du rayon d'impact des grenades
+- Augementation des dÃ©gÃ¢ts des grenades (120)
+- Suppression des launchers en attendent compatibilitÃ© W8
+- Les IA restent maintenant lorsqu'on change de map.
 
 
+============= Version 0.0.1 ============= 
 
-
-
-============= Version 0.0.8 ============= 
-
-Ajout/améliorations :
-- Optimisations à la compilation du programme jusque 30 fps de gains !
-- Météo et heure aléatoire sur les maps extérieures.
-- Nouveaux bruitages pour les maps.
-- Le bas de votre smiley est visible si vous regardez à terre.
-- Editeur de map en ligne.
-- Map "Village" terminée.
-- Vous avez maintenant votre propre ombre :bave:
-- Amélioration et optimisation des explosions.
-- Nouvelle image de fond de menu, animée en plus.
-- Affichage du bouclier à la première personne.
-- Les boucliers se dégradent petit à petit visuellement.
-- Affichage du sang sur l'écran en cas de dommages/vie basse.
-- Nouveau menu de choix de smiley.
-- Nouveaux bruitages pour panachay, cochon grillay, glock .22, boucliers.
-- Affichage du temps qu'il reste avant de pouvoir spawner.
-- Meilleur équilibrage des bruitages.
-- Optimisation de la pluspart des modèles 3D (jusqu'à 20% de polygones en moins).
-- Ajout de nouveaux bones sur les anciens smileys en vue de l'ajout de hats, capes, etc... :hap:
-- Traduction anglaise en cours.
-
-Gameplay :
-- Ajout du mode hardcore :
-Pas de hud.
-Rechargement d'arme (touche R par défaut)
-Recul vertical
-Pas de bouclier en bois au spawn.
-
-- Meilleur système de boucliers (3 matières différentes)
-Bois : Absorbe 25% de dégâts. (Abondant, 50 PV)
-Fer : Absorbe 50% de dégâts. (Fréquent, 100PV)
-Or : Absorbe 75% de dégâts. (Rare, 200 PV)
-
-- Spawn avec bouclier en bois de 75 pv sur tous les modes de jeux sauf en mode hardcore.
-- Possibilité de choisir la durée des parties.
-
-Bugs :
-- Fix d'un bug qui faisait planter le jeu si un bot passait sur une entités non reliée par une trajectoire.
-- Fix couleur aléatoire pour l'UZI et fusil électrique avec les champis.
-- Fix messages d'infos bruts dans la console.
-- Fix bug de caméra à la 3ème personne.
-- Fix de l'affchage du radar lorsqu'on l'on a le drapeau.
-- Fix du fusil plasma et fusil électrique dans l'éditeur de maps.
-- Fixé une bonne fois pour toute l'affichage du viseur du sniper.
-- La barre d'xp est maintenant parfaitement centrée sur toutes les résolutions d'écran.
-- Correction du bug accroupi de la version light (non je déconne :hap: )
-
-
-
-
-
-============= Version 0.0.9 ============= 
-
-Ajouts :
-- Ajout des hats pour customiser son smiley.
-- Ecran de mort tout beau tout neuf avec affichage du tueur, meilleur affichage du décompte avant spawn.
-- Ajout de douilles qui partent dans tous les sens lors des tirs (Minigun, Mossberg 500 et SV 98).
-- Ajout d'une ambiance "Apocalypse"
-- Ajout d'une musique pour le menus principal.
-- Balise [Bot] devant le pseudo des bots.
-- Ajout de verbes en "ay" pour les messages de kills.
-
-Améliorations :
-- Nouveau menu principal et image de fond.
-- Nouveau menu pour paramétrer sa partie.
-- Amélioration de divers bruitages (Explosions, fusées, Mossberg 500, M-32)
-- Amélioration de l'ambiance pluie/brouillard.
-- Amélioration graphique des explosions.
-- Amélioration graphique des flammes.
-- Amélioration graphique du flash de museau des armes.
-- Amélioration de l'animation du fusil plasma et du SMAW.
-- Amélioration des particules générées par les projectiles.
-- Le flash d'explosion du feu d'artifice est dorénavant coloré.
-- Réorganisation totale (et meilleure) des modes de jeux.
-- L'alarme des missiles Nordko s'active dorénavant lorsque le missile est lancé et fonctionne en multijoueurs.
-- Retour du "Bloh bloh" de l'Uzi.
-- Affichage coloré des FPS (rouge = mauvais, jaune = moyen, vert = optimal)
-- Synchronisation des menus de la version normal et light. (Utilisent le même fichier cfg)
-- Optimisation du hud.
-
-Gameplay :
-- Ajout d'aptitudes. (Soldat, Médecin, Américain, Ninja, Magicien, Vampire, Kamikaze, Faucheuse)
-- Ajout d'armes relatives aux aptitudes (Ceinture d'explosifs, Medigun)
-- Ajout de l'arbalète.
-- Ajout de deux armes au corps à corps (Ban hammer et Master sword)
-- Vous spawnez dorénavant avec une arme de c-à-c (deux pour le Ninja) choisie au hasard parmis les trois.
-- Ajout du type de jeu "Corps à corps" (uniquement les armes c-à-c sont disponibles).
-- Diminution du temps d'attente pour respawner pour les modes de jeu avec temps d'attente.
-- Diminution de l'effet de l'EPO.
-- Meilleurs dégâts pour le fusil électrique.
-- Le pistolet tire plus vite mais fait moins de dégâts.
-- Ajout d'un tremblement pour les armes à cadence rapides.
-- Ajout d'un léger récul verticale pour la M32 le Fusil à pompe et SV 98.
-- La touche "F" par défaut permet maintenant de sélectionner une arme au Corps à corps.
-- La touche "G" par défaut permet maintenant de sélectionner la M-32.
-- La vitesse du missile nucléaire a été ralentie afin de bien le voir arriver sur sa gueule :hap:
-- Meilleure gestion du nombre de munitions : 
-Chaque caisses de munitions donnent 1/4 des munitions maximales pour toutes les armes.
-Vous spawnez 300% des munitions max. en aléatoire/identique, 100% des munitions max. en full-stuff et 25% des munitions max. dans les autres modes de jeu.
-
-Bugs :
-- Fix d'un crash causé par les waypoints.
-- Fix d'un crash causé par l'affichage des boucliers.
-- Ajout des règles manquantes dans le tableau des scores.
-- Fix d'un bug d'affichage de la lunette de sniper qui n'était plus transparente.
-- Fix de l'EPO qui affectait toutes les bots présents si on en prenait.
-- Fix d'un bug d'affichage de particules qui les rendaient plus claires parfois.
-- Fix des bugs d'affichage du hud lorsqu'on était specateur ou mort.
-- L'affichage de l'XP et des LVL sont désormais parfaitement centrés.
-- Préchargement des images de viseurs pour éviter les chutes de framerate.
-- Les FPS ne s'affichent plus derrière le hud.
-- Les bots osent de nouveau balancer le missile Nordko.
-- Les waypoints se chargement désormais correctement lors d'un changement de map automatique.
-- Les modèles de munitions du M32 et Feu d'artifices ont désormais une taille normale.
-- Correction de waypoints sur la map Village pour que les bots puissent rapporter les drapeaux.
-- Ajout d'une base manquante sur la map Usine
-- Les couleurs sont maintenant Jaune/Orange dans le tableau des scores pour les modes de jeux par équipe.
-- Fix d'un bug d'affichage du terrain (pouvant faire planter le jeu) lorsqu'on était mort.
-- Retrait d'une vieille commande de développement permettant de donner de l'XP.
-- Lorsque vous mourrez en l'air, votre cadavre retombera par terre au lieu de flotter dans les airs.
-- Fix d'un bug qui permettait de reprendre un bouclier en bois même si votre bouclier était tout neuf.
-- Correction du bug de couleurs pour la jauge de capture de base.
-- Le fusil à pompe n'est plus tenu par un handicapé moteur.
-- La précision fonctionne dorénavant correctement pour la version light.
-- Correction du bug accroupi de la version light (lol).
-
-
-
-
-
-============= Version 0.1.0 ============= (A VENIR)
-Améliorations :
-- Nouveaux smileys (malade, content, colère).
-- Rénovation de la map "Usine".
-- Ajout de bruitages pour le sang.
-- Ajout d'effet de sang lors d'un suicide.
-- Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
-- Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
-- Ajout d'un joint et d'un effet de fumée lorsque le smiley est sous l'effet d'un joint.
-- Nouveau modèle 3D pour le joint.
-- Ajout d'une musique lors de l'utilisation d'un joint.
-- EPO et Joint Gérés côté serveur.
-- Meilleure gestion des données (hats/lvls/classes) client/serveur.
-- Retour au menu en fin de partie pour le jeu en solo.
-
-Gameplay :
-- Ajout de l'AK 47.
-- La ceinture d'explosifs a été nerf.
-Modifications de l'EPO :
-- L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
-- Meilleur décroissement de l'effet de l'EPO.
-- L'EPO dure désormais 45 secondes.
-- Ajout d'hallucinations visuelles aléatoires pour les champis.
-
-Bugs :
-- La pluie fonctionne enfin sur la version light.
-- Les Bots profitent désormais l'effet de l'EPO et des joints.
-- Fix la durée de partie qui pouvait être mise à zéro.
+- PremiÃ¨re release publique.
