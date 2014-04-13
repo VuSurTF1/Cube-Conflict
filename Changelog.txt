@@ -300,7 +300,11 @@ Bugs :
 ============= Version 0.1.0 ============= (A VENIR)
 Améliorations :
 - Nouveaux smileys (malade, content, colère).
+- Ajout de la map "Dota"
 - Rénovation de la map "Usine".
+- Nouveaux modèles 3D pour les bases.
+- Ajout du "sharpening" pour une meilleure netteté.
+- Amélioration du contraste pour un meilleur rendu des couleurs.
 - Ajout de bruitages pour le sang.
 - Ajout d'effet de sang lors d'un suicide.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
@@ -313,6 +317,7 @@ Améliorations :
 - Retour au menu en fin de partie pour le jeu en solo.
 
 Gameplay :
+- Ajout du fléau d'armes.
 - Ajout de l'AK 47.
 - La ceinture d'explosifs a été nerf.
 Modifications de l'EPO :
@@ -320,6 +325,7 @@ Modifications de l'EPO :
 - Meilleur décroissement de l'effet de l'EPO.
 - L'EPO dure désormais 45 secondes.
 - Ajout d'hallucinations visuelles aléatoires pour les champis.
+- WTF
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
