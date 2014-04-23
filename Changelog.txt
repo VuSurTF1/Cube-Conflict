@@ -303,6 +303,8 @@ Améliorations :
 - Ajout de la map "Dota"
 - Rénovation de la map "Usine".
 - Nouveaux modèles 3D pour les bases.
+- Optimisation du rendu des balles, gain significatif d'FPS surtout avec un grand nombre de joueurs/bots.
+- Ajout d'une option pour choisir la gravité sur sa map.
 - Ajout du "sharpening" pour une meilleure netteté.
 - Amélioration du contraste pour un meilleur rendu des couleurs.
 - Ajout de bruitages pour le sang.
@@ -317,17 +319,19 @@ Améliorations :
 - Retour au menu en fin de partie pour le jeu en solo.
 
 Gameplay :
+- Ajout du mode "bourrin" (cadence x2, munitions x2, superarmes x10).
 - Ajout du fléau d'armes.
 - Ajout de l'AK 47.
+- Ajout du GAU-8 (Superarme comme la bombe nuke)
 - La ceinture d'explosifs a été nerf.
 Modifications de l'EPO :
 - L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
 - Meilleur décroissement de l'effet de l'EPO.
 - L'EPO dure désormais 45 secondes.
 - Ajout d'hallucinations visuelles aléatoires pour les champis.
-- WTF
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
 - Les Bots profitent désormais l'effet de l'EPO et des joints.
 - Fix la durée de partie qui pouvait être mise à zéro.
+- L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
