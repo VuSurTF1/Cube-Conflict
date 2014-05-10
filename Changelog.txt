@@ -330,8 +330,12 @@ Modifications de l'EPO :
 - L'EPO dure désormais 45 secondes.
 - Ajout d'hallucinations visuelles aléatoires pour les champis.
 
+Comptes :
+- Ajout de la connextion au jeu avec son pseudo et du mode invité.
+
 Bugs :
 - La pluie fonctionne enfin sur la version light.
 - Les Bots profitent désormais l'effet de l'EPO et des joints.
 - Fix la durée de partie qui pouvait être mise à zéro.
 - L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
+- Il est désormais impossible de charger d'anciennes maps.
