@@ -307,11 +307,11 @@ Améliorations :
 - Ajout d'une option pour choisir la gravité sur sa map.
 - Ajout du "sharpening" pour une meilleure netteté.
 - Amélioration du contraste pour un meilleur rendu des couleurs.
-- Ajout de bruitages pour le sang.
 - Ajout d'effet de sang lors d'un suicide.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
 - Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
 - Ajout d'un joint et d'un effet de fumée lorsque le smiley est sous l'effet d'un joint.
+- Message de kill replacé et ajout de l'XP gagné.
 - Nouveau modèle 3D pour le joint.
 - Ajout d'une musique lors de l'utilisation d'un joint.
 - EPO et Joint Gérés côté serveur.
@@ -324,14 +324,23 @@ Gameplay :
 - Ajout de l'AK 47.
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
 - La ceinture d'explosifs a été nerf.
+- Ajout d'hallucinations visuelles aléatoires pour les champis.
 Modifications de l'EPO :
-- L'effet de l'EPO est cumulable avec la vitesse de chaque classes.
+- L'effet de l'EPO est cumulable avec la vitesse de chaque aptitudes.
 - Meilleur décroissement de l'effet de l'EPO.
 - L'EPO dure désormais 45 secondes.
-- Ajout d'hallucinations visuelles aléatoires pour les champis.
+Modifications du Joint :
+- L'effet de l'joint est cumulable avec le poids de chaque aptitudes.
+- Meilleur décroissement de l'effet du joint.
 
 Comptes :
 - Ajout de la connextion au jeu avec son pseudo et du mode invité.
+- Ajout d'une boutique pour acheter ses items.
+- Gestion des statistiques.
+
+Audio :
+- Ajout d'un bruitage lors d'un kill.
+- Ajout de bruitages pour le sang.
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
@@ -339,3 +348,4 @@ Bugs :
 - Fix la durée de partie qui pouvait être mise à zéro.
 - L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
 - Il est désormais impossible de charger d'anciennes maps.
+- Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
