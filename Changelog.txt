@@ -320,6 +320,7 @@ Améliorations :
 
 Gameplay :
 - Ajout du mode "bourrin" (cadence x2, munitions x2, superarmes x10).
+- Ajout de l'aptitude "Physicien"
 - Ajout du fléau d'armes.
 - Ajout de l'AK 47.
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
@@ -349,3 +350,5 @@ Bugs :
 - L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
 - Il est désormais impossible de charger d'anciennes maps.
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
+- Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
+- Correction de diverses erreurs dans le menus des aptitudes.
