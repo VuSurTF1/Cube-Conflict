@@ -1,4 +1,4 @@
-============= vERSION 0.0.1 ============= 
+============= Version 0.0.1 (Edition "Nostalgie") ============= 
 
 - Première release publique.
 
@@ -6,7 +6,7 @@
 
 
 
-============= Version 0.0.2 ============= 
+============= Version 0.0.2 (Edition "Premiers ajustements")  ============= 
 
 - Affichage du pseudo des aliés lorsqu'ils sont visés.
 - Amélioration du système d'info rapide.
@@ -28,7 +28,7 @@
 
 
 
-============= Version 0.0.3 ============= 
+============= Version 0.0.3 (Edition "Edition smileys") ============= 
 
 - Correction message de suicide.
 - Système d'XP et de niveaux.
@@ -51,7 +51,7 @@
 
 
 
-============= Version 0.0.4 ============= 
+============= Version 0.0.4 (Edition "M-32 cheatée") ============= 
 
 Ajouts/améliorations :
 - Le niveau de chaque joueur/IA est affiché dans le tableau des scores.
@@ -82,7 +82,7 @@ Bugs :
 
 
 
-============= Version 0.0.5 ============= 
+============= Version 0.0.5 (Edition "Rien de neuf") ============= 
 
 Ajouts/améliorations :
 - Animation du smiley sournois.
@@ -105,7 +105,7 @@ Bugs :
 
 
 
-============= Version 0.0.6 ============= 
+============= Version 0.0.6 (Edition "Nucléaire") ============= 
 
 Ajouts/améliorations :
 - Ajout du mode duel.
@@ -131,7 +131,7 @@ Bugs :
 
 
 
-============= Version 0.0.7============= 
+============= Version 0.0.7 (Edition "Pré-Mysql") ============= 
 
 Ajouts/améliorations :
 - Nouveau mode de jeu "Identique" (chaque joueur possède la même arme)
@@ -165,7 +165,7 @@ Bugs :
 
 
 
-============= Version 0.0.8 ============= 
+============= Version 0.0.8 (Edition "Hardcore") ============= 
 
 Ajout/améliorations :
 - Optimisations à la compilation du programme jusque 30 fps de gains !
@@ -218,7 +218,7 @@ Bugs :
 
 
 
-============= Version 0.0.9 ============= 
+============= Version 0.0.9 (Edition "Crash") ============= 
 
 Ajouts :
 - Ajout des hats pour customiser son smiley.
@@ -297,7 +297,7 @@ Bugs :
 
 
 
-============= Version 0.1.0 ============= (A VENIR)
+============= Version 0.1.0 (Edition "Online") ============= (A VENIR)
 Ajouts de contenu :
 - Ajout de la map "Dota"
 - Ajout de la map "Killhouse"
@@ -357,6 +357,9 @@ Bugs :
 - Fix la durée de partie qui pouvait être mise à zéro.
 - L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
 - Il est désormais impossible de charger d'anciennes maps.
+- Correction de la couleur faussée du ciel sur Village.
+- Correction de l'ambiance aléatoire buggée.
+- Les alliés s'affichent désormais sur la minimap en mode capture de drapeau.
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
 - Correction de diverses erreurs dans le menus des aptitudes.
