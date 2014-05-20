@@ -311,6 +311,7 @@ Améliorations graphiques :
 - Ajout d'effet de sang lors d'un suicide.
 - Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
 - Ajout d'un joint et d'un effet de fumée lorsque le smiley est sous l'effet d'un joint.
+- Ajout d'hallucinations visuelles aléatoires pour les champis.
 - Nouveau modèle 3D pour le joint.
 
 Améliorations techniques :
@@ -318,6 +319,7 @@ Améliorations techniques :
 - Meilleure gestion des données (hats/lvls/classes) client/serveur.
 - EPO et Joint Gérés côté serveur.
 - Optimisation du rendu des balles, gain significatif d'FPS surtout avec un grand nombre de joueurs/bots.
+- Optimisation de la map chateaux (gain de 5 à 15 FPS)
 
 Autres ajouts/améliorations :
 - Message de kill replacé et ajout de l'XP gagné.
@@ -331,7 +333,11 @@ Gameplay :
 - Ajout de l'AK 47.
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
 - La ceinture d'explosifs a été nerf.
-- Ajout d'hallucinations visuelles aléatoires pour les champis.
+- Le rayon des bases en "Capture de base" a été aggrandi.
+XP :
+- Redonner de la santé avec le médigun donne maintenant de l'XP.
+- Rester autours des bases en "Capture de base" donne maintenant de l'XP.
+- Un bonus d'XP pour les séries de kills a été ajouté (1 XP par kills sans mourrir)
 Modifications de l'EPO :
 - L'effet de l'EPO est cumulable avec la vitesse de chaque aptitudes.
 - Meilleur décroissement de l'effet de l'EPO.
@@ -363,3 +369,4 @@ Bugs :
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
 - Correction de diverses erreurs dans le menus des aptitudes.
+- Des armes n'apparaitront plus en mode capture de base si le type de jeu est corps à corps, aléatoire, identique et fullstuff.
