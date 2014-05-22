@@ -357,6 +357,9 @@ Audio :
 - Ajout de bruitages pour le sang.
 - Ajout d'une musique lors de l'utilisation d'un joint.
 
+Autres :
+- Ajout d'une variable permettant de choisir le nombre minimum de joueurs sur un serveur afin de combler le manque par des bots.
+
 Bugs :
 - La pluie fonctionne enfin sur la version light.
 - Les Bots profitent désormais l'effet de l'EPO et des joints.
@@ -364,7 +367,9 @@ Bugs :
 - L'éditeur de map est de nouveau accessible lorsque le mode hardcore et/ou bourrin sont activés.
 - Il est désormais impossible de charger d'anciennes maps.
 - Correction de la couleur faussée du ciel sur Village.
+- Correction de problèmes de connextion au serveur lorsque des bots étaient présents dessus.
 - Correction de l'ambiance aléatoire buggée.
+- Le zoom se désactive désormais correctement lors d'un changement d'arme.
 - Les alliés s'affichent désormais sur la minimap en mode capture de drapeau.
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
