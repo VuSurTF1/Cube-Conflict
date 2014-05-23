@@ -325,6 +325,9 @@ Autres ajouts/améliorations :
 - Message de kill replacé et ajout de l'XP gagné.
 - Ajout d'une option pour choisir la gravité sur sa map.
 - Retour au menu en fin de partie pour le jeu en solo.
+- Ajout d'une variable permettant de choisir le nombre minimum de joueurs sur un serveur afin de combler le manque par des bots.
+- Ajout d'une option afin de vider le cache du jeu (utile lors de mises à jours).
+- Amélioration de l'interface graphique de l'éditeur de map.
 
 Gameplay :
 - Ajout du mode "bourrin" (cadence x2, munitions x2, superarmes x10).
@@ -356,9 +359,6 @@ Audio :
 - Ajout d'un bruitage lors d'un kill.
 - Ajout de bruitages pour le sang.
 - Ajout d'une musique lors de l'utilisation d'un joint.
-
-Autres :
-- Ajout d'une variable permettant de choisir le nombre minimum de joueurs sur un serveur afin de combler le manque par des bots.
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
