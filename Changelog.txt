@@ -306,6 +306,7 @@ Ajouts de contenu :
 Améliorations graphiques :
 - Rénovation de la map "Usine".
 - Nouveaux modèles 3D pour les bases.
+- Le lance-flammes laisse désirmais des traces noires sur les murs.
 - Ajout du "sharpening" pour une meilleure netteté.
 - Amélioration du contraste pour un meilleur rendu des couleurs.
 - Ajout d'effet de sang lors d'un suicide.
@@ -328,10 +329,12 @@ Autres ajouts/améliorations :
 - Ajout d'une variable permettant de choisir le nombre minimum de joueurs sur un serveur afin de combler le manque par des bots.
 - Ajout d'une option afin de vider le cache du jeu (utile lors de mises à jours).
 - Amélioration de l'interface graphique de l'éditeur de map.
+- Meilleur placement des messages de capture de drapeau.
 
 Gameplay :
 - Ajout du mode "bourrin" (cadence x2, munitions x2, superarmes x10).
-- Ajout de l'aptitude "Physicien"
+- Ajout de l'aptitude "Physicien".
+- Ajout de l'aptitude "Campeur".
 - Ajout du fléau d'armes.
 - Ajout de l'AK 47.
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
@@ -370,6 +373,7 @@ Bugs :
 - Correction de problèmes de connextion au serveur lorsque des bots étaient présents dessus.
 - Correction de l'ambiance aléatoire buggée.
 - Le zoom se désactive désormais correctement lors d'un changement d'arme.
+- Correction de l'erreur "NULL" dans un message en capture de drapeau.
 - Les alliés s'affichent désormais sur la minimap en mode capture de drapeau.
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
