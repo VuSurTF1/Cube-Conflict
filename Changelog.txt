@@ -309,27 +309,35 @@ Améliorations graphiques :
 - Le lance-flammes laisse désirmais des traces noires sur les murs.
 - Ajout du "sharpening" pour une meilleure netteté.
 - Amélioration du contraste pour un meilleur rendu des couleurs.
+- Ajout d'effets de bulles dans l'eau.
 - Ajout d'effet de sang lors d'un suicide.
 - Ajout d'une seringue bleue plantée dans le smiley lorsqu'il a l'EPO.
+- Amélioration du rendu des explosions nucléaires.
 - Ajout d'un joint et d'un effet de fumée lorsque le smiley est sous l'effet d'un joint.
 - Ajout d'hallucinations visuelles aléatoires pour les champis.
 - Nouveau modèle 3D pour le joint.
 
 Améliorations techniques :
+- Ajout d'une option pour désafficher ou non  les modèles 3D portés par les joueurs en fonction de la distance.
+- Ajout d'une option pour désafficher ou non les lumières dynamiques en fonction de la distance.
+- Ajout d'une option pour désafficher ou non les ombres des joueurs.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
 - Meilleure gestion des données (hats/lvls/classes) client/serveur.
 - EPO et Joint Gérés côté serveur.
 - Optimisation du rendu des balles, gain significatif d'FPS surtout avec un grand nombre de joueurs/bots.
 - Optimisation de la map chateaux (gain de 5 à 15 FPS)
+- Meilleure gestion des fichiers de config afin d'éviter les erreurs.
 
 Autres ajouts/améliorations :
+- Nouvelle ambiance aléatoire "Matinée fraîche".
 - Message de kill replacé et ajout de l'XP gagné.
+- Le menu des aptitudes est plus détaillé et corrigé.
 - Ajout d'une option pour choisir la gravité sur sa map.
 - Retour au menu en fin de partie pour le jeu en solo.
 - Ajout d'une variable permettant de choisir le nombre minimum de joueurs sur un serveur afin de combler le manque par des bots.
-- Ajout d'une option afin de vider le cache du jeu (utile lors de mises à jours).
 - Amélioration de l'interface graphique de l'éditeur de map.
 - Meilleur placement des messages de capture de drapeau.
+- Les screenshots ont leur propre dossier.
 
 Gameplay :
 - Ajout du mode "bourrin" (cadence x2, munitions x2, superarmes x10).
@@ -340,6 +348,7 @@ Gameplay :
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
 - La ceinture d'explosifs a été nerf.
 - Le rayon des bases en "Capture de base" a été aggrandi.
+- Le temps d'attente pour pouvoir respawner a été réduit à 3 secondes en mode capture de drapeau et ananas.
 XP :
 - Redonner de la santé avec le médigun donne maintenant de l'XP.
 - Rester autours des bases en "Capture de base" donne maintenant de l'XP.
@@ -372,9 +381,11 @@ Bugs :
 - Correction de la couleur faussée du ciel sur Village.
 - Correction de problèmes de connextion au serveur lorsque des bots étaient présents dessus.
 - Correction de l'ambiance aléatoire buggée.
+- La minimap sur la map "Usine" fonctionne enfin.
 - Le zoom se désactive désormais correctement lors d'un changement d'arme.
 - Correction de l'erreur "NULL" dans un message en capture de drapeau.
 - Les alliés s'affichent désormais sur la minimap en mode capture de drapeau.
+- Des drapeaux s'affichent désormais dans la minimap au lieu d'ananas en mode capture de drapeau.
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
 - Correction de diverses erreurs dans le menus des aptitudes.
