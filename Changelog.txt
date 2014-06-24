@@ -330,6 +330,7 @@ Améliorations techniques :
 - Les logs du serveur sont désormais sauvegardés dans le dossier d'installation du serveur.
 
 Autres ajouts/améliorations :
+- Tout nouveau launcher permettant de gérer le jeu.
 - Nouvelle ambiance aléatoire "Matinée fraîche".
 - Message de kill replacé et ajout de l'XP gagné.
 - Rénovation du menu d'options graphiques.
@@ -373,9 +374,6 @@ Audio :
 - Ajout d'un bruitage lors d'un kill.
 - Ajout de bruitages pour le sang.
 - Ajout d'une musique lors de l'utilisation d'un joint.
-
-Launcher :
-- Tout nouveau launcher permettant de lancer le jeu et le serveur.
 
 Bugs :
 - La pluie fonctionne enfin sur la version light.
