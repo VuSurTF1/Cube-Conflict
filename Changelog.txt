@@ -327,10 +327,12 @@ Améliorations techniques :
 - Optimisation du rendu des balles, gain significatif d'FPS surtout avec un grand nombre de joueurs/bots.
 - Optimisation de la map chateaux (gain de 5 à 15 FPS)
 - Meilleure gestion des fichiers de config afin d'éviter les erreurs.
+- Les logs du serveur sont désormais sauvegardés dans le dossier d'installation du serveur.
 
 Autres ajouts/améliorations :
 - Nouvelle ambiance aléatoire "Matinée fraîche".
 - Message de kill replacé et ajout de l'XP gagné.
+- Rénovation du menu d'options graphiques.
 - Le menu des aptitudes est plus détaillé et corrigé.
 - Ajout d'une option pour choisir la gravité sur sa map.
 - Retour au menu en fin de partie pour le jeu en solo.
@@ -372,6 +374,9 @@ Audio :
 - Ajout de bruitages pour le sang.
 - Ajout d'une musique lors de l'utilisation d'un joint.
 
+Launcher :
+- Tout nouveau launcher permettant de lancer le jeu et le serveur.
+
 Bugs :
 - La pluie fonctionne enfin sur la version light.
 - Les Bots profitent désormais l'effet de l'EPO et des joints.
@@ -389,4 +394,5 @@ Bugs :
 - Correction du Médigun dont les effets graphiques étaient les mêmes que pour des dégâts.
 - Correction d'une erreur qui faisait que la faucheuse se déplacait 10% plus vite au lieu de 10 moins vite.
 - Correction de diverses erreurs dans le menus des aptitudes.
+- L'XP et le LVL sont maintenant affichés parfaitement au centre quel que soit la résolution d'écran.
 - Des armes n'apparaitront plus en mode capture de base si le type de jeu est corps à corps, aléatoire, identique et fullstuff.
