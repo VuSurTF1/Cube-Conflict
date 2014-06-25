@@ -308,6 +308,7 @@ Améliorations graphiques :
 - Nouveaux modèles 3D pour les bases.
 - Le lance-flammes laisse désirmais des traces noires sur les murs.
 - Ajout du "sharpening" pour une meilleure netteté.
+- Amélioration de l'anti-crélénage.
 - Amélioration du contraste pour un meilleur rendu des couleurs.
 - Ajout d'effets de bulles dans l'eau.
 - Ajout d'effet de sang lors d'un suicide.
@@ -321,6 +322,8 @@ Améliorations techniques :
 - Ajout d'une option pour désafficher ou non  les modèles 3D portés par les joueurs en fonction de la distance.
 - Ajout d'une option pour désafficher ou non les lumières dynamiques en fonction de la distance.
 - Ajout d'une option pour désafficher ou non les ombres des joueurs.
+- Optimisation du rendu des particules.
+- Optimisation du rendu du ciel.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
 - Meilleure gestion des données (hats/lvls/classes) client/serveur.
 - EPO et Joint Gérés côté serveur.
