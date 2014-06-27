@@ -322,6 +322,7 @@ Améliorations graphiques :
 Améliorations techniques :
 - Ajout d'une option pour désafficher ou non  les modèles 3D portés par les joueurs en fonction de la distance.
 - Ajout d'une option pour désafficher ou non les lumières dynamiques en fonction de la distance.
+- Ajout d'une option pour désafficher les lumières dynamiques et les ombres.
 - Ajout d'une option pour désafficher ou non les ombres des joueurs.
 - Optimisation du rendu des particules.
 - Optimisation du rendu du ciel.
