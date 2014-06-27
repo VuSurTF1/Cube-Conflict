@@ -337,7 +337,7 @@ Autres ajouts/améliorations :
 - Tout nouveau launcher permettant de gérer le jeu.
 - Nouvelle ambiance aléatoire "Matinée fraîche".
 - Message de kill replacé et ajout de l'XP gagné.
-- Rénovation du menu d'options graphiques.
+- Rénovation du menu d'options graphiques et sonores.
 - Le menu des aptitudes est plus détaillé et corrigé.
 - Ajout d'une option pour choisir la gravité sur sa map.
 - Retour au menu en fin de partie pour le jeu en solo.
