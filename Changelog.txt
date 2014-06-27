@@ -354,6 +354,8 @@ Gameplay :
 - Ajout de l'AK 47.
 - Ajout du GAU-8 (Superarme comme la bombe nuke)
 - La ceinture d'explosifs a été nerf.
+- Le fusil plasma a été légèrement nerf.
+- Ajustement de la distance maximale de tir de toutes les armes.
 - Le rayon des bases en "Capture de base" a été aggrandi.
 - Le temps d'attente pour pouvoir respawner a été réduit à 3 secondes en mode capture de drapeau et ananas.
 XP :
