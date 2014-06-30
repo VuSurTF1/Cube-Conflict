@@ -320,10 +320,11 @@ Améliorations graphiques :
 - Nouveau modèle 3D pour le joint.
 
 Améliorations techniques :
-- Ajout d'une option pour désafficher ou non  les modèles 3D portés par les joueurs en fonction de la distance.
-- Ajout d'une option pour désafficher ou non les lumières dynamiques en fonction de la distance.
-- Ajout d'une option pour désafficher les lumières dynamiques et les ombres.
-- Ajout d'une option pour désafficher ou non les ombres des joueurs.
+- Ajout d'une option pour désafficher les lumières dynamiques et les ombres. (+ 25 à 35 fps)
+- Ajout d'une option pour désafficher ou non  les modèles 3D portés par les joueurs en fonction de la distance. (+ 15 à 20 fps)
+- Ajout d'une option pour désafficher ou non les lumières dynamiques en fonction de la distance. (+ 1 à 5 fps)
+- Ajout d'une option pour désafficher ou non les ombres des joueurs. (+ 1 à 5 fps)
+- Ajout d'une option pour désactiver les dégâts sur les boucliers ennemis. (+ 1 à 5 fps)
 - Optimisation du rendu des particules.
 - Optimisation du rendu du ciel.
 - Syncronisation à 100% des codes client/serveur entre la version normale et light pour stabilité optimale.
