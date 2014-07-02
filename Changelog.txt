@@ -339,6 +339,8 @@ Autres ajouts/améliorations :
 - Tout nouveau launcher permettant de gérer le jeu.
 - Nouvelle ambiance aléatoire "Matinée fraîche".
 - Message de kill replacé et ajout de l'XP gagné.
+- Amélioration de l'affichage de l'ananas, du drapeau et des pixels dans le HUD.
+- Amélioration de l'affichage des boucliers dans le HUD.
 - Rénovation du menu d'options graphiques et sonores.
 - Le menu des aptitudes est plus détaillé et corrigé.
 - Ajout d'une option pour choisir la gravité sur sa map.
@@ -354,7 +356,9 @@ Gameplay :
 - Ajout de l'aptitude "Campeur".
 - Ajout du fléau d'armes.
 - Ajout de l'AK 47.
-- Ajout du GAU-8 (Superarme comme la bombe nuke)
+- Ajout du GAU-8 (Superarme).
+- Ajout des Mini-Roquettes (Superarme).
+- Le bouclier en fer encaisse maintenant 125 de dégâts au lieu de 100.
 - La ceinture d'explosifs a été nerf.
 - Le fusil plasma a été légèrement nerf.
 - Ajustement de la distance maximale de tir de toutes les armes.
