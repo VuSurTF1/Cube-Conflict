@@ -1,9 +1,9 @@
-Cislattack utilise le fork Tesseract (http://tesseract.gg/) de Cube Engine 2 (http://cubeengine.com/) comme moteur de jeu.
+Cube Conflict utilise le fork Tesseract (http://tesseract.gg/) de Cube Engine 2 (http://cubeengine.com/) comme moteur de jeu.
 
-LICENSE CISLATTACK
-==================
+LICENSE CUBE CONFLICT
+=====================
 
-Cislattack est sous licence Creative Commons (CC-BY-SA).
+Cube Conflict est sous licence Creative Commons (CC-BY-SA).
 Vous pouvez modifier et partager le contenu du jeu sans accord obligatoire, 
 à la seule condition que vous spécifiez clairement l'auteur initial du projet 
 (VuSurTF1/Jean Onche) et que votre adaptation soit sous la même licence.
@@ -11,6 +11,7 @@ Vous pouvez modifier et partager le contenu du jeu sans accord obligatoire,
 Contributeurs :
 Chef de projet : VuSurTF1
 Site web, comptes, gestion communauté : LordSpock (PixStudio)
+Musique : Antoine R (LaMuserie.net)
 Autres : Skyser, JoueurZero, JambonBeurreMan, Kara, Harmonyra, Ugo Jong-Un.
 
 
