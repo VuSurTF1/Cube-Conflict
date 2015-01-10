@@ -1,0 +1,2 @@
+- Erreur boutons sans commandes
+- xp_reward version light
